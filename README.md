@@ -56,3 +56,11 @@ It assumes:
 ### 1. Install dependencies
 ```bash
 pip install numpy dash plotly astropy scipy
+```
+### 2. Run the application
+```bash
+python app.py <path_to_fits_file>
+```
+### 3. Open in browser
+```bash
+http://127.0.0.1:8070/
